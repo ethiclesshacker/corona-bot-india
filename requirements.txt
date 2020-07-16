@@ -1,4 +1,4 @@
 tweepy
 requests
 matplotlib
-dotenv
+# dotenv
